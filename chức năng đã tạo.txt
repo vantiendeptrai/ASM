@@ -1,0 +1,6 @@
+Đổ dữ liệu
+đăng kí
+đăng nhập
+admin:
+sửa 
+xóa
